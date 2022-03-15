@@ -1,0 +1,14 @@
+Bags' Groove
+1dom,4dom,1dom,1dom,4dom,4dom,1dom,3min7,2min7,5dom,1dom/2,6dom/2,2min7/2,5dom/2
+Autumn Leaves
+2min7,5dom,1maj7,4maj7,7hd7,3domb13,6min6,6min6,7hd7,3domb13,6min6,6min6,2min7,5dom,1maj7,4maj7,7hd7,3domb13,6min7/2,b6dom/2,5min7/2,b5dom/2,7hd7,3domb13,6min6,6min6
+Bessie's Blues
+1dom,4dom,1dom,1dom,4dom,4dom,1dom,1dom,5dom,4dom,1dom,5dom
+All of Me
+1maj7,1maj7,3dom,3dom,6dom,6dom,2min7,2min7,3dom,3dom,6min7,6min7,2dom,2dom,2min7,5dom,1maj7,1maj7,3dom,3dom,6dom,6dom,2min7,2min7,4maj7,4min6,3min7,6dom,2min7,5dom,16/2,b3fd7/2,5min7/2,5dom/2
+All The Things You Are
+6min7,2min7,5dom,1maj7,4maj7,b5min7/2,7dom/2,3maj7,3maj7,3min7,6min7,2dom,5maj7,1maj7,b2min7,b5dom,7maj7,7maj7,b2min7,b5dom,7maj7,7maj7,b7hd7,b3domb9,b6maj7,3domb13,6min7,2min7,5dom,1maj7,4maj7,4minmaj7,3min7,b3fd7,2min7,5dom,1maj7,7hd7/2,3domb9
+Blue Bossa
+6min7,6min7,2min7,2min7,7hd7,3domb9,6min7,6min7,1min7,4dom,b7maj7,b7maj7,7hd7,3domb9,6min7,7hd7/2,3domb9/2
+Amazing Grace
+1maj/3,1maj/3,1maj/3,5maj/3,1maj/3,1maj/3,5domsus/3,5dom/3,1maj/3,1maj/3,4maj/3,1maj/3,6min/2,1maj/1,2min7/2,5maj7/1,1maj/2,4maj/1,1maj/3
