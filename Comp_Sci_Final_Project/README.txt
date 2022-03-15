@@ -1,5 +1,3 @@
-MAKE SURE FORMAT > WORD WRAP IS ENABLED BEFORE READING
-
 Before you begin using Rote Less, Play More, there are a couple of things you'll need to do to get the program working properly.
 
 1) Find the folder to where you've downloaded standards.txt (same folder this README should be in.)
@@ -11,7 +9,7 @@ When you've got the program running, you'll notice that function 5 asks you to e
 
 
 
-CONVENTIAL NAME: CODE NAME
+CONVENTIONAL NAME: CODE NAME
 
 diatonic pitches of relative major scale: 1-7
 flat 2, 3, 5, 6, 7: b2, b3, b5, b6, b7
